@@ -1,4 +1,4 @@
-
+[![Build status](https://devops.familiecleiren.be/FamilieCleiren/FabrikamFiber%20Web/_apis/build/status/FabrikamFiber%20Web-Maven-CI)](https://devops.familiecleiren.be/FamilieCleiren/FabrikamFiber%20Web/_build/latest?definitionId=20)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
